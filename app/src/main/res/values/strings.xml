@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">League Of Legend Champion</string>
+    <string name="name">name</string>
+    <string name="profile">About</string>
+    <string name="profile_name">Narapati Keysa Anandi</string>
+    <string name="profile_email">a291b4ky3247@bangkit.academy</string>
+    <string name="name_holder">Name:</string>
+    <string name="detail_difficulty">Difficulty</string>
+    <string name="detail_role">Role</string>
+
+    <string-array name="data_name">
+        <item>Aatrox</item>
+        <item>Ahri</item>
+        <item>Akali</item>
+        <item>Cho\'Gath</item>
+        <item>Mordekaiser</item>
+        <item>Nunu &amp; Willump</item>
+        <item>Tahm Kench</item>
+        <item>Teemo</item>
+        <item>Thresh</item>
+        <item>Yasuo</item>
+        <item>Yone</item>
+        <item>Yorick</item>
+    </string-array>
+
+    <string-array name="data_alias">
+        <item>the Darkin Blade</item>
+        <item>the Nine-Tailed Fox</item>
+        <item>the Rogue Assassin</item>
+        <item>the Terror of the Void</item>
+        <item>the Iron Revenant</item>
+        <item>the Boy and His Yeti</item>
+        <item>The River King</item>
+        <item>the Swift Scout</item>
+        <item>the Chain Warden</item>
+        <item>the Unforgiven</item>
+        <item>the Unforgotten</item>
+        <item>Shepherd of Souls</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Once honored defenders of Shurima against the Void, Aatrox and his brethren would eventually become an even greater threat to Runeterra, and were defeated only by cunning mortal sorcery. But after centuries of imprisonment, Aatrox was the first to find freedom once more, corrupting and transforming those foolish enough to try and wield the magical weapon that contained his essence. Now, with stolen flesh, he walks Runeterra in a brutal approximation of his previous form, seeking an apocalyptic and long overdue vengeance.</item>
+        <item>Innately connected to the magic of the spirit realm, Ahri is a fox-like vastaya who can manipulate her prey\'s emotions and consume their essence—receiving flashes of their memory and insight from each soul she consumes. Once a powerful yet wayward predator, Ahri is now traveling the world in search of remnants of her ancestors while also trying to replace her stolen memories with ones of her own making.</item>
+        <item>Abandoning the Kinkou Order and her title of the Fist of Shadow, Akali now strikes alone, ready to be the deadly weapon her people need. Though she holds onto all she learned from her master Shen, she has pledged to defend Ionia from its enemies, one kill at a time. Akali may strike in silence, but her message will be heard loud and clear: fear the assassin with no master.</item>
+        <item>From the moment Cho\'Gath first emerged into the harsh light of Runeterra\'s sun, the beast was driven by the most pure and insatiable hunger. A perfect expression of the Void\'s desire to consume all life, Cho\'Gath\'s complex biology quickly converts matter into new bodily growth—increasing its muscle mass and density, or hardening its outer carapace like organic diamond. When growing larger does not suit the Void-spawn\'s needs, it vomits out the excess material as razor-sharp spines, leaving prey skewered and ready to feast upon later.</item>
+        <item>Twice slain and thrice born, Mordekaiser is a brutal warlord from a foregone epoch who uses his necromantic sorcery to bind souls into an eternity of servitude. Few now remain who remember his earlier conquests, or know the true extent of his powers—but there are some ancient souls that do, and they fear the day when he may return to claim dominion over both the living and the dead.</item>
+        <item>Once upon a time, there was a boy who wanted to prove he was a hero by slaying a fearsome monster—only to discover that the beast, a lonely and magical yeti, merely needed a friend. Bound together by ancient power and a shared love of snowballs, Nunu and Willump now ramble wildly across the Freljord, breathing life into imagined adventures. They hope that somewhere out there, they will find Nunu\'s mother. If they can save her, maybe they will be heroes after all…</item>
+        <item>Known by many names throughout history, the demon Tahm Kench travels the waterways of Runeterra, feeding his insatiable appetite with the misery of others. Though he may appear singularly charming and proud, he swaggers through the physical realm like a vagabond in search of unsuspecting prey. His lashing tongue can stun even a heavily armored warrior from a dozen paces, and to fall into his rumbling belly is to tumble into an abyss from which there is little hope of return.</item>
+        <item>Undeterred by even the most dangerous and threatening of obstacles, Teemo scouts the world with boundless enthusiasm and a cheerful spirit. A yordle with an unwavering sense of morality, he takes pride in following the Bandle Scout\'s Code, sometimes with such eagerness that he is unaware of the broader consequences of his actions. Though some say the existence of the Scouts is questionable, one thing is for certain: Teemo\'s conviction is nothing to be trifled with.</item>
+        <item>Sadistic and cunning, Thresh is an ambitious and restless spirit of the Shadow Isles. Once the custodian of countless arcane secrets, he was undone by a power greater than life or death, and now sustains himself by tormenting and breaking others with slow, excruciating inventiveness. His victims suffer far beyond their brief mortal coil as Thresh wreaks agony upon their souls, imprisoning them in his unholy lantern to torture for all eternity.</item>
+        <item>An Ionian of deep resolve, Yasuo is an agile swordsman who wields the air itself against his enemies. As a proud young man, he was falsely accused of murdering his master—unable to prove his innocence, he was forced to slay his own brother in self-defense. Even after his master\'s true killer was revealed, Yasuo still could not forgive himself for all he had done, and now wanders his homeland with only the wind to guide his blade.</item>
+        <item>In life, he was Yone—half-brother of Yasuo, and renowned student of his village\'s sword school. But upon his death at the hands of his brother, he found himself hunted by a malevolent entity of the spirit realm, and was forced to slay it with its own sword. Now, cursed to wear its demonic mask upon his face, Yone tirelessly hunts all such creatures in order to understand what he has become.</item>
+        <item>The last survivor of a long-forgotten religious order, Yorick is both blessed and cursed with power over the dead. Trapped on the Shadow Isles, his only companions are the rotting corpses and shrieking spirits that he gathers to him. Yorick\'s monstrous actions belie his noble purpose: to free his home from the curse of the Ruination.</item>
+    </string-array>
+
+    <string-array name="data_role">
+        <item>Fighter</item>
+        <item>Mage / Assassin</item>
+        <item>Assassin</item>
+        <item>Tank / Mage</item>
+        <item>Fighter / Mage</item>
+        <item>Tank / Mage</item>
+        <item>Tank / Support</item>
+        <item>Marksman / Mage</item>
+        <item>Support / Tank</item>
+        <item>Fighter / Assassin</item>
+        <item>Fighter / Assassin</item>
+        <item>Fighter / Tank</item>
+    </string-array>
+
+    <string-array name="data_dificulty">
+        <item>Medium</item>
+        <item>Medium</item>
+        <item>Medium</item>
+        <item>Medium</item>
+        <item>Medium</item>
+        <item>Medium</item>
+        <item>Medium</item>
+        <item>Medium</item>
+        <item>Medium</item>
+        <item>High</item>
+        <item>High</item>
+        <item>Medium</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg</item>
+        <item>https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_0.jpg</item>
+        <item>https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_0.jpg</item>
+        <item>https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_0.jpg</item>
+        <item>https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_0.jpg</item>
+        <item>https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nunu_0.jpg</item>
+        <item>https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TahmKench_0.jpg</item>
+        <item>https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_0.jpg</item>
+        <item>https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_0.jpg</item>
+        <item>https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_0.jpg</item>
+        <item>https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_0.jpg</item>
+        <item>https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yorick_0.jpg</item>
+    </string-array>
+</resources>
